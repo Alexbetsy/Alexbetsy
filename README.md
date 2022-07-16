@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alexandre
-- 👀 I’m interested in Web Development & New Technology
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Dev
