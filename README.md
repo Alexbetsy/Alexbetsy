@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Python.**
 
-- 👀 I’m interested in learning and improving my skills as a Web Developer.**
+- 👀 I’m interested in learning and improving my skills as a Web Developer.
 
 - 📫 How to reach me **alexandre.betsy97@gmail.com**
 
