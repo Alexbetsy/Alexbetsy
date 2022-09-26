@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre, you can call me Alex.</h1>
 <h3 align="center">A passionate front-end developer and tech enthusiast from Mauritius</h3>
 
-- 🌱 I’m currently learning **React and Express.**
+- 🌱 I’m currently learning **React.**
 
 - 👀 I’m interested in learning and improving my skills as a Web Developer.
 
